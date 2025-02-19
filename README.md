@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YatharthKelkar
-- 👀 I’m interested in Coding and aI am a aviation enthusisast.
+- 👀 I'm interested in coding, and I am an aviation enthusiast.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on on any programing projects.
 - 📫 How to reach me kelkaryatharth1@gmail.com or kelkaryatharth@gmail.com
