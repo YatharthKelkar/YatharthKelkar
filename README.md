@@ -34,18 +34,23 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 ## 📺 YouTube Channel  
 🎥 I create **tech tutorials** and **coding content** on my YouTube channel, covering **Python, HTML/CSS, and JavaScript**. Check it out!  
 
-🔗 **Subscribe Now**  
+🔗 [**Subscribe Now**](https://youtube.com/@YatharthKelkar) 
 
 ---
 
 ## 📬 Let's Connect  
-🌐 **Website:** My GitHub Website (To be hosted)  
+
+🌐 **Website:** My GitHub Website (To be hosted)
+<br>
 🐙 **GitHub:** [GitHub](https://github.com/YatharthKelkar) 
+<br>
 🎬 **YouTube:** [My Youtube Channel](https://youtube.com/@YatharthKelkar) 
 
-📩 *Feel free to reach out for collaborations and tech discussions!*  
+📩 **Feel free to reach out for collaborations and tech discussions!**
+<br>
 Email: [kelkaryatharth@gmail.com](mailto:kelkaryatharth@gmail.com)
+<br>
 Secondary Email: [kelkaryatharth1@gmail.com](mailto:kelkaryatharth1@gmail.com)
----
 
+---
 🔥 **"Code. Innovate. Inspire."**  
