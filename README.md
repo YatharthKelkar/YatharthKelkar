@@ -26,6 +26,7 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 🔹 **Personal Portfolio** – A stylish personal website with stunning effects  
 🔹 **Timer-Based Power Adapter** – An IoT project to automate power control  
 🔹 **Bluetooth-Controlled Smart Light** – Motion sensor-based lighting system  
+🔹 **Youtube clone** – A clone of youtube which replicates the exact of how youtube looks like
 
 💡 *More exciting projects on [GitHub](https://github.com/YatharthKelkar)!*  
 
