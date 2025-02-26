@@ -46,6 +46,9 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 🐙 **GitHub:** [GitHub](https://github.com/YatharthKelkar) 
 <br>
 🎬 **YouTube:** [My Youtube Channel](https://youtube.com/@YatharthKelkar) 
+<br>
+🌐 **Resume:**  [Yatharth Kelkar Resume.docx](https://github.com/user-attachments/files/18990257/Yatharth.Kelkar.Resume.docx) 
+
 
 📩 **Feel free to reach out for collaborations and tech discussions!**
 <br>
