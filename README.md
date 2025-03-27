@@ -28,7 +28,7 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 🔹 **Bluetooth-Controlled Smart Light** – Motion sensor-based lighting system  
 🔹 **Youtube clone** – A clone of youtube which replicates the exact of how youtube looks like
 
-💡 *More exciting projects on [GitHub](https://github.com/YatharthKelkar)!*  
+
 
 ---
 
