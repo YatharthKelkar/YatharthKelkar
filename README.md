@@ -32,7 +32,7 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 ---
 
 ## 📺 YouTube Channel  
-🎥 I create **tech tutorials** and **coding content** on my YouTube channel, covering **Python, HTML/CSS, and JavaScript**. Check it out!  
+🎥 I create **tech tutorials** and **coding content** on my YouTube channel, covering **Python, HTML/CSS, and Java**. Check it out!  
 
 🔗 [**Subscribe Now**](https://youtube.com/@YatharthKelkar) 
 
