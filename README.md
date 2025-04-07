@@ -2,7 +2,7 @@
 
 > *"Turning ideas into reality, one line of code at a time."*  
 
-💻 **Coder | Web Developer | Linux Enthusiast**  
+💻 **Coder | Web Developer | Linux Enthusiast**
 
 ---
 
