@@ -22,11 +22,11 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 ---
 
 <h2>🚀 Projects</h2>
-🔹 **Portfolio Site** – Personal website with eye-catching effects
-🔹 **Power Adapter** – IoT-based timer-controlled power switch
-🔹 **Smart Light** – Bluetooth and motion sensor lighting system
-🔹 **YouTube Clone** – UI replica of the YouTube platform
-🔹 **AI ChatBot** – Multi-version bot for math, chat, and Google-powered answers
+<li>🔹 Portfolio Site – Personal website with eye-catching effects</li>
+<li>🔹 Power Adapter – IoT-based timer-controlled power switch</li>
+<li>🔹 Smart Light – Bluetooth and motion sensor lighting system</li>
+<li>🔹 YouTube Clone – UI replica of the YouTube platform</li>
+<li>🔹 AI ChatBot – Multi-version bot for math, chat, and Google-powered answers</li>
 
 
 
