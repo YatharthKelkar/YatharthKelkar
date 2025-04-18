@@ -2,7 +2,7 @@
 
 > *"Coding is like alcohol, code it once and you are forced to code it again - By Yatharth Kelkar"*
 
-💻 **Coder | Web Developer | Linux Enthusiast**
+💻 **Coder | Web Developer | Open-Source Enthusiast**
 
 ---
 
