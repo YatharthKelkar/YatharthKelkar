@@ -1,6 +1,7 @@
 # 🚀 Yatharth Kelkar  
 
-> *"Coding is like alcohol, code it once you are forced to code it again"*  
+> *"Coding is like alcohol, code it once you are forced to code it again"*
+> *"By Yatharth Kelkar"*
 
 💻 **Coder | Web Developer | Linux Enthusiast**
 
