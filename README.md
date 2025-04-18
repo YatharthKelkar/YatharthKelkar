@@ -21,11 +21,12 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## 🚀 Projects  
-🔹 **Personal Portfolio** – A stylish personal website with stunning effects  
-🔹 **Timer-Based Power Adapter** – An IoT project to automate power control  
-🔹 **Bluetooth-Controlled Smart Light** – Motion sensor-based lighting system  
-🔹 **Youtube clone** – A clone of youtube which replicates the exact of how youtube looks like
+🚀 Projects
+🔹 Portfolio Site – Personal website with eye-catching effects
+🔹 Power Adapter – IoT-based timer-controlled power switch
+🔹 Smart Light – Bluetooth and motion sensor lighting system
+🔹 YouTube Clone – UI replica of the YouTube platform
+🔹 AI ChatBot – Multi-version bot for math, chat, and Google-powered answers
 
 
 
