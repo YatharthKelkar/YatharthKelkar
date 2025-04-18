@@ -1,6 +1,6 @@
 # 🚀 Yatharth Kelkar  
 
-> *"Turning ideas into reality, one line of code at a time."*  
+> *"Coding is like alcohol, code it once you are forced to code it again"*  
 
 💻 **Coder | Web Developer | Linux Enthusiast**
 
