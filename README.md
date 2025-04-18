@@ -21,7 +21,7 @@ With **expertise in Linux**, I enjoy tinkering with open-source tools and automa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-##🚀 Projects
+<h2>🚀 Projects</h2>
 🔹 **Portfolio Site** – Personal website with eye-catching effects
 🔹 **Power Adapter** – IoT-based timer-controlled power switch
 🔹 **Smart Light** – Bluetooth and motion sensor lighting system
